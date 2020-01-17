@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Calculator{
+        
+        public int add(int a,int b){
+            return a+b;
+        }
+        
+        public int multiply(int a,int b){
+            return a*b;
+        }
+        
+        public int subtract(int a,int b){
+            return a-b;
+        }
+        public float divide(float a,float b){
+            return a/b;
+        }
+    }
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            //Your code goes here
+            Console.WriteLine("Hello, world!");
+            Calculator c=new Calculator();
+           // c.display();
+            Console.WriteLine(c.add(10,20));
+        }
+    }
+}
