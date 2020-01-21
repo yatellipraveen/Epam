@@ -1,0 +1,30 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Singleton
+    {
+        private static Singleton instance;
+        public static Singleton Instance{
+            get{
+                if(instance==null) instance=new Singleton();
+                return instance;
+            }
+        }
+        private Singleton(){
+            Console.WriteLine("Object Created");
+        }
+    }
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var obj1=Singleton.Instance;
+            var obj2=Singleton.Instance;
+            var obj3=Singleton.Instance;
+        }
+    }
+}
