@@ -5,10 +5,10 @@ using System.Text.RegularExpressions;
 
 namespace Rextester
 {
-    public class Singleton
+    public sealed class Singleton
     {
         private static Singleton instance;
-        public static Singleton Instance{
+        public static Singleton GetInstance{
             get{
                 if(instance==null) instance=new Singleton();
                 return instance;
@@ -22,9 +22,9 @@ namespace Rextester
     {
         public static void Main(string[] args)
         {
-            var obj1=Singleton.Instance;
-            var obj2=Singleton.Instance;
-            var obj3=Singleton.Instance;
+            var obj1=Singleton.GetInstance;
+            var obj2=Singleton.GetInstance;
+            var obj3=Singleton.GetInstance;
         }
     }
 }
