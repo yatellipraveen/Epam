@@ -32,9 +32,9 @@ namespace Task
         /// <summary>
         /// This method calculates average of marks and return the average
         /// </summary>
-        /// <return>
+        /// <returns>
         /// returns the average of three subject marks
-        /// </return>
+        /// </returns>
         public float calulate_averge() {
             float avg=(this.sub1+this.sub2+this.sub3)/3f;
             return avg;
