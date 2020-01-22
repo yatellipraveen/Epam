@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApp1</name>
+    </assembly>
+    <members>
+        <member name="T:Task.Student">
+            <summary>
+            This class has fields to store student details and 
+            methods to set marks and calculate average
+            </summary>
+        </member>
+        <member name="M:Task.Student.set_marks(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            This method sets the values of each subject
+            </summary>
+            <example>
+            <code>
+            student_object.set_marks(100,49,50);
+            </code>
+            </example>
+            <param name="sub1">marks in subject 1</param>
+            <param name="sub2">marks in subject 2</param>
+            <param name="sub3">marks in subject 3</param>
+        </member>
+        <member name="M:Task.Student.calulate_averge">
+            <summary>
+            This method calculates average of marks and return the average
+            </summary>
+            <return>
+            returns the average of three subject marks
+            </return>
+        </member>
+        <member name="M:Task.Student.#ctor(System.String,System.String)">
+            <summary>
+            Constructor to initialize the name and unique_ID fields
+            </summary>
+            <param name="name"></param>
+            <param name="unique_ID"></param>
+        </member>
+        <member name="T:Task.Program">
+            <summary>
+            class for main program
+            </summary>
+        </member>
+        <member name="M:Task.Program.Main(System.String[])">
+            <summary>
+            main class
+            </summary>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>
