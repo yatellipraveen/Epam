@@ -1,0 +1,9 @@
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\bin\Release\FileOperation.exe.config
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\bin\Release\FileOperation.exe
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\bin\Release\FileOperation.pdb
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\bin\Release\DisposableExample2.dll
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\bin\Release\DisposableExample2.pdb
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\obj\Release\FileOperation.csprojAssemblyReference.cache
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\obj\Release\FileOperation.csproj.CopyComplete
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\obj\Release\FileOperation.exe
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\FileOperation\obj\Release\FileOperation.pdb

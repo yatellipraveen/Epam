@@ -1,0 +1,9 @@
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\DisposableExample2\bin\Debug\DisposableExample2.dll
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\DisposableExample2\bin\Debug\DisposableExample2.pdb
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\DisposableExample2\obj\Debug\DisposableExample2.dll
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\DisposableExample2\obj\Debug\DisposableExample2.pdb
+C:\Users\Praveen_Yatelli\Workspace\.Net\Week-3\DisposableExample2\DisposableExample2\bin\Debug\DisposableExample2.dll
+C:\Users\Praveen_Yatelli\Workspace\.Net\Week-3\DisposableExample2\DisposableExample2\bin\Debug\DisposableExample2.pdb
+C:\Users\Praveen_Yatelli\Workspace\.Net\Week-3\DisposableExample2\DisposableExample2\obj\Debug\DisposableExample2.csprojAssemblyReference.cache
+C:\Users\Praveen_Yatelli\Workspace\.Net\Week-3\DisposableExample2\DisposableExample2\obj\Debug\DisposableExample2.dll
+C:\Users\Praveen_Yatelli\Workspace\.Net\Week-3\DisposableExample2\DisposableExample2\obj\Debug\DisposableExample2.pdb

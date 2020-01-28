@@ -1,0 +1,4 @@
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\DisposableExample2\bin\Release\DisposableExample2.dll
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\DisposableExample2\bin\Release\DisposableExample2.pdb
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\DisposableExample2\obj\Release\DisposableExample2.dll
+C:\Users\Praveen_Yatelli\source\repos\DisposableExample2\DisposableExample2\obj\Release\DisposableExample2.pdb
