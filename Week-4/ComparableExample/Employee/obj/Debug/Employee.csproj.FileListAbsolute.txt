@@ -1,0 +1,5 @@
+C:\Users\Praveen_Yatelli\source\repos\ComparableExample\Employee\bin\Debug\Employee.dll
+C:\Users\Praveen_Yatelli\source\repos\ComparableExample\Employee\bin\Debug\Employee.pdb
+C:\Users\Praveen_Yatelli\source\repos\ComparableExample\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+C:\Users\Praveen_Yatelli\source\repos\ComparableExample\Employee\obj\Debug\Employee.dll
+C:\Users\Praveen_Yatelli\source\repos\ComparableExample\Employee\obj\Debug\Employee.pdb

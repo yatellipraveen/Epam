@@ -1,0 +1,9 @@
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\bin\Debug\CustomCollection.exe.config
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\bin\Debug\CustomCollection.exe
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\bin\Debug\CustomCollection.pdb
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\bin\Debug\CustomCollectionExample.dll
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\bin\Debug\CustomCollectionExample.pdb
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\obj\Debug\CustomCollection.csprojAssemblyReference.cache
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\obj\Debug\CustomCollection.csproj.CopyComplete
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\obj\Debug\CustomCollection.exe
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollection\obj\Debug\CustomCollection.pdb

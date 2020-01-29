@@ -1,0 +1,5 @@
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollectionExample\bin\Debug\CustomCollectionExample.dll
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollectionExample\bin\Debug\CustomCollectionExample.pdb
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollectionExample\obj\Debug\CustomCollectionExample.csprojAssemblyReference.cache
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollectionExample\obj\Debug\CustomCollectionExample.dll
+C:\Users\Praveen_Yatelli\source\repos\CustomCollection\CustomCollectionExample\obj\Debug\CustomCollectionExample.pdb
