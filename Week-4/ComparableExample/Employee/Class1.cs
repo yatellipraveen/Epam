@@ -23,6 +23,11 @@ namespace Employee
             Console.WriteLine(_name+" "+_empID);
         }
 
+        /// <summary>
+        /// Implementing ComapreTo method which helps to order the objects while sorting
+        /// </summary>
+        /// <param name="other"> the object to be compared to </param>
+        /// <returns>return 1, -1, 0 depending on the order</returns>
         public int CompareTo(Emp other)
         {
             if (this._empID == other._empID) return 0;
@@ -31,7 +36,11 @@ namespace Employee
             
         }
 
-
+        /// <summary>
+        /// Checks if two objects of type Emp are equal or not
+        /// </summary>
+        /// <param name="other">object to be compare to</param>
+        /// <returns>returns true if both are equal otherwise returns false</returns>
         public bool Equals(Emp other)
         {
             if (this._empID == other._empID) return true;

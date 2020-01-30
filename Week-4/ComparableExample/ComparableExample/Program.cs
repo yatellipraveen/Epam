@@ -7,8 +7,17 @@ using Employee;
 
 namespace ComparableExample
 {
+    /// <summary>
+    /// SortByName class implements Comparer of Emp objects 
+    /// </summary>
     class SortByName : IComparer<Emp>
     {
+        /// <summary>
+        /// Compares two objects of Emp and return -1,0 or 1
+        /// </summary>
+        /// <param name="emp1">First object of Emp</param>
+        /// <param name="emp2">Second object of Emp to compare</param>
+        /// <returns>return 1 if Object 1 is greater than object 2, 0 if both are equal, else -1</returns>
         public int Compare(Emp emp1, Emp emp2)
         {
             return emp1._name.CompareTo(emp2._name);

@@ -25,6 +25,10 @@ namespace EnumeratorExample
         private Emp[] empArray = new Emp[10];
         private int currentIndex=0;
 
+        /// <summary>
+        /// Add Emp instance to the object
+        /// </summary>
+        /// <param name="employee">object of employee</param>
         public void Add(Emp employee)
         {
             if (currentIndex < 10)
@@ -42,6 +46,10 @@ namespace EnumeratorExample
             }
         }
 
+        /// <summary>
+        /// GetEnumerator returns the enumerator to iterate this collection
+        /// </summary>
+        /// <returns></returns>
         public IEnumerator GetEnumerator()
         {
             return new OrganizationEnumerator(empArray, currentIndex);
@@ -60,6 +68,10 @@ namespace EnumeratorExample
             }
             public object Current => org[_index];
 
+            /// <summary>
+            /// If the array has elements it moves the pointer to next and returns true, otherwise returns false
+            /// </summary>
+            /// <returns></returns>
             public bool MoveNext()
             {
                 if (_index < _currentIndex-1)
@@ -71,6 +83,9 @@ namespace EnumeratorExample
                 
             }
 
+            /// <summary>
+            /// Reset the pointer
+            /// </summary>
             public void Reset()
             {
                 _index = -1;
