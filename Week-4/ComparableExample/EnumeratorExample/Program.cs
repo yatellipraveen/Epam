@@ -7,18 +7,74 @@ using System.Threading.Tasks;
 
 namespace EnumeratorExample
 {
-    class Emp : IEnumerable<Emp>
+    public class Emp 
     {
-        public String name;
+        public String _name;
+        private int _empID;
+
+        public Emp(String name, int empID)
+        {
+            this._empID = empID;
+            this._name = name;
+
+        }
+    }
+
+    public class Organization : IEnumerable
+    {
+        private Emp[] empArray = new Emp[10];
+        private int currentIndex=0;
+
+        public void Add(Emp employee)
+        {
+            if (currentIndex < 10)
+            {
+                empArray[currentIndex++] = employee;
+
+            }
+        }
+
+        public void Display()
+        {
+            for (int i=0;i<currentIndex;i++)
+            {
+                Console.WriteLine(empArray[i]._name);
+            }
+        }
 
         public IEnumerator GetEnumerator()
         {
-            throw new NotImplementedException();
+            return new OrganizationEnumerator(empArray, currentIndex);
         }
 
-        IEnumerator<Emp> IEnumerable<Emp>.GetEnumerator()
+        public class OrganizationEnumerator : IEnumerator
         {
-            return (IEnumerator<Emp>)GetEnumerator();
+            private Emp[] org;
+            private int _currentIndex;
+            private int _index;
+            public OrganizationEnumerator(Emp[] empArray2, int currentIndex)
+            {
+                org = empArray2;
+                _currentIndex = currentIndex;
+                _index = -1;
+            }
+            public object Current => org[_index];
+
+            public bool MoveNext()
+            {
+                if (_index < _currentIndex-1)
+                {
+                    _index++;
+                    return true;
+                }
+                else return false;
+                
+            }
+
+            public void Reset()
+            {
+                _index = -1;
+            }
         }
     }
 
@@ -26,6 +82,17 @@ namespace EnumeratorExample
     {
         static void Main(string[] args)
         {
+            Emp employee1 = new Emp("Praveen", 12);
+            Emp employee2 = new Emp("Ravi", 43);
+            Organization org = new Organization();
+            org.Add(employee1);
+            org.Add(employee2);
+            org.Display();
+
+            foreach (Emp it in org)
+            {
+                Console.WriteLine(it._name);
+            }
         }
     }
 }

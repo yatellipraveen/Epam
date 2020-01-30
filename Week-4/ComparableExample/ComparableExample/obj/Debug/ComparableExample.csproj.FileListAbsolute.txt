@@ -7,3 +7,13 @@ C:\Users\Praveen_Yatelli\source\repos\ComparableExample\ComparableExample\obj\De
 C:\Users\Praveen_Yatelli\source\repos\ComparableExample\ComparableExample\obj\Debug\ComparableExample.csproj.CopyComplete
 C:\Users\Praveen_Yatelli\source\repos\ComparableExample\ComparableExample\obj\Debug\ComparableExample.exe
 C:\Users\Praveen_Yatelli\source\repos\ComparableExample\ComparableExample\obj\Debug\ComparableExample.pdb
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\bin\Debug\ComparableExample.exe.config
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\bin\Debug\ComparableExample.exe
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\bin\Debug\ComparableExample.pdb
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\bin\Debug\Employee.dll
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\bin\Debug\Employee.pdb
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\obj\Debug\ComparableExample.csprojAssemblyReference.cache
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\obj\Debug\ComparableExample.csproj.CoreCompileInputs.cache
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\obj\Debug\ComparableExample.csproj.CopyComplete
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\obj\Debug\ComparableExample.exe
+F:\Workspace\Epam\Week-4\ComparableExample\ComparableExample\obj\Debug\ComparableExample.pdb

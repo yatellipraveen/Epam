@@ -1,0 +1,7 @@
+F:\Workspace\Epam\Week-4\ComparableExample\EnumeratorExample\bin\Debug\EnumeratorExample.exe.config
+F:\Workspace\Epam\Week-4\ComparableExample\EnumeratorExample\bin\Debug\EnumeratorExample.exe
+F:\Workspace\Epam\Week-4\ComparableExample\EnumeratorExample\bin\Debug\EnumeratorExample.pdb
+F:\Workspace\Epam\Week-4\ComparableExample\EnumeratorExample\obj\Debug\EnumeratorExample.csprojAssemblyReference.cache
+F:\Workspace\Epam\Week-4\ComparableExample\EnumeratorExample\obj\Debug\EnumeratorExample.csproj.CoreCompileInputs.cache
+F:\Workspace\Epam\Week-4\ComparableExample\EnumeratorExample\obj\Debug\EnumeratorExample.exe
+F:\Workspace\Epam\Week-4\ComparableExample\EnumeratorExample\obj\Debug\EnumeratorExample.pdb
