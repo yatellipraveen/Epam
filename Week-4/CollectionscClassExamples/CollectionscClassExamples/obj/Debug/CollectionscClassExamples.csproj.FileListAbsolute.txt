@@ -1,0 +1,6 @@
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\CollectionscClassExamples\bin\Debug\CollectionscClassExamples.exe.config
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\CollectionscClassExamples\bin\Debug\CollectionscClassExamples.exe
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\CollectionscClassExamples\bin\Debug\CollectionscClassExamples.pdb
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\CollectionscClassExamples\obj\Debug\CollectionscClassExamples.csprojAssemblyReference.cache
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\CollectionscClassExamples\obj\Debug\CollectionscClassExamples.exe
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\CollectionscClassExamples\obj\Debug\CollectionscClassExamples.pdb

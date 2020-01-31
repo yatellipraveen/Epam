@@ -1,0 +1,6 @@
+C:\Users\Praveen_Yatelli\source\repos\ExceptionHandlingCalculator\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Praveen_Yatelli\source\repos\ExceptionHandlingCalculator\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Praveen_Yatelli\source\repos\ExceptionHandlingCalculator\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Praveen_Yatelli\source\repos\ExceptionHandlingCalculator\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Praveen_Yatelli\source\repos\ExceptionHandlingCalculator\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Praveen_Yatelli\source\repos\ExceptionHandlingCalculator\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

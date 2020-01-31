@@ -1,0 +1,5 @@
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\GenericCollections\obj\Debug\GenericCollections.pdb
