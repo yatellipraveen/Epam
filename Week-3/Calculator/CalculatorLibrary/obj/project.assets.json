@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "projectName": "CalculatorLibrary",
-      "projectPath": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectPath": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
       "packagesPath": "C:\\Users\\Praveen_Yatelli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

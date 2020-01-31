@@ -11,7 +11,7 @@ namespace CollectionscClassExamples
     {
         static void Main(string[] args)
         {
-            //ArrayList Example
+            #region ArrayListExample
             ArrayList arrayList = new ArrayList();
             arrayList.Add("Hello");
             arrayList.Add(123);
@@ -20,8 +20,9 @@ namespace CollectionscClassExamples
             {
                 Console.WriteLine(obj);
             }
+            #endregion
 
-            //HashTable Example
+            #region HashTableExample
             Hashtable hashTable = new Hashtable();
             hashTable.Add(123,"Hello");
             hashTable.Add("world", 342);
@@ -30,8 +31,9 @@ namespace CollectionscClassExamples
 
             hashTable.Remove(123);
             foreach (DictionaryEntry obj in hashTable) Console.WriteLine(obj.Key + " " + obj.Value);
+            #endregion
 
-            //Queue Example
+            #region QueueExample
 
             Queue myQue = new Queue();
             myQue.Enqueue("Praveen");
@@ -41,8 +43,9 @@ namespace CollectionscClassExamples
             foreach (Object obj in myQue) Console.WriteLine(obj);
             myQue.Dequeue();
             foreach (Object obj in myQue) Console.WriteLine(obj);
+            #endregion
 
-            //Stack Example
+            #region StackExample
 
             Stack myStack = new Stack();
             myStack.Push("Stack Begins");
@@ -51,15 +54,16 @@ namespace CollectionscClassExamples
             foreach (Object obj in myStack) Console.WriteLine(obj);
             myStack.Pop();
             foreach (Object obj in myStack) Console.WriteLine(obj);
-
-            //SortedList
+            #endregion
+    
+            #region SortedList
 
             SortedList mySL = new SortedList();
             mySL.Add(3,"Sorted List starts");
             mySL.Add(1,123);
             mySL.Add(2, "Sorted List Ends");
             foreach (DictionaryEntry obj in mySL )Console.WriteLine(obj.Key + " "+ obj.Value);
-
+            #endregion
 
         }
     }

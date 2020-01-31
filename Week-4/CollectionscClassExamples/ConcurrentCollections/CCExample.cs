@@ -27,23 +27,34 @@ namespace ConcurrentCollections
        
         static void Main(string[] args)
         {
-            //Blocking collection example
+            #region Blockingcollectionexample
             BlockingCollection<int> blockingCollection = new BlockingCollection<int>(3);
             blockingCollection.Add(5);
             blockingCollection.Add(7);
             blockingCollection.Add(2);
+
+            // blockingCollection.Add(1); //programs gets blocked
            
-            blockingCollection.Add(1); //programs gets blocked
-
             foreach (Object obj in blockingCollection) Console.WriteLine(obj);
+            #endregion
 
-            //ConcurrentStack
+            #region ConcurrentStack
             Thread t1 = new Thread(ConCuStack.AddOne);
          
             Thread t2 = new Thread(ConCuStack.AddTwo);
             t1.Start();
             t2.Start();
-            
+            #endregion
+
+            #region ConcurrentBag
+            ConcurrentBag<int> CCbag = new ConcurrentBag<int>();
+            CCbag.Add(5);
+            CCbag.Add(2);
+            CCbag.Add(100);
+
+            foreach (Object obj in CCbag) Console.WriteLine(obj);
+            #endregion
+
 
         }
     }

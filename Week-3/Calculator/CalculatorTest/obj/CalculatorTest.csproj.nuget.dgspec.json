@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorTest\\CalculatorTest.csproj": {}
+    "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorTest\\CalculatorTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+    "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "projectName": "CalculatorLibrary",
-        "projectPath": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectPath": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "packagesPath": "C:\\Users\\Praveen_Yatelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorTest\\CalculatorTest.csproj": {
+    "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorTest\\CalculatorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorTest\\CalculatorTest.csproj",
+        "projectUniqueName": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorTest\\CalculatorTest.csproj",
         "projectName": "CalculatorTest",
-        "projectPath": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorTest\\CalculatorTest.csproj",
+        "projectPath": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorTest\\CalculatorTest.csproj",
         "packagesPath": "C:\\Users\\Praveen_Yatelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorTest\\obj\\",
+        "outputPath": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-                "projectPath": "C:\\Users\\Praveen_Yatelli\\source\\repos\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj"
+              "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+                "projectPath": "C:\\Users\\Praveen_Yatelli\\Workspace\\.Net\\Week-3\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj"
               }
             }
           }

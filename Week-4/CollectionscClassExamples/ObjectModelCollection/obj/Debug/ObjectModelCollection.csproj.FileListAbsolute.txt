@@ -1,0 +1,5 @@
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\ObjectModelCollection\bin\Debug\ObjectModelCollection.exe.config
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\ObjectModelCollection\bin\Debug\ObjectModelCollection.exe
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\ObjectModelCollection\bin\Debug\ObjectModelCollection.pdb
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\ObjectModelCollection\obj\Debug\ObjectModelCollection.exe
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\ObjectModelCollection\obj\Debug\ObjectModelCollection.pdb

@@ -7,15 +7,16 @@ namespace GenericCollections
     {
         static void Main(string[] args)
         {
-            //List example
+            #region ListExample
             List<String> myList = new List<string>();
             myList.Add("List Begin");
             myList.Add("List");
             myList.Add("List Ends");
             foreach (Object obj in myList) Console.WriteLine(obj);
             Console.WriteLine(myList.Count);
+            #endregion
 
-            //Dictionary Example
+            #region DictionaryExample
             Dictionary<int, string> myDict = new Dictionary<int, string>();
             myDict.Add(2,"Dict Start");
             myDict.Add(1,"Dict");
@@ -25,22 +26,24 @@ namespace GenericCollections
             {
                 Console.WriteLine(key + " , " + myDict[key]);
             }
+            #endregion
 
-            //HashSet Example
+            #region HashSetExample
             HashSet<int> myHS = new HashSet<int>();
             myHS.Add(5);
             myHS.Add(10);
             myHS.Add(2);
             foreach (Object obj in myHS) Console.WriteLine(obj);
+            #endregion
 
-            //Queue Example
+            #region QueueExample
             Queue<String> myQ = new Queue<string>();
             myQ.Enqueue("First");
             myQ.Enqueue("Second");
             myQ.Enqueue("third");
             myQ.Dequeue();
             foreach (Object obj in myQ) Console.WriteLine(obj);
-
+            #endregion
         }
     }
 }

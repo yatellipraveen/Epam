@@ -1,0 +1,6 @@
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\SpecializedCollections\bin\Debug\SpecializedCollections.exe.config
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\SpecializedCollections\bin\Debug\SpecializedCollections.exe
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\SpecializedCollections\bin\Debug\SpecializedCollections.pdb
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\SpecializedCollections\obj\Debug\SpecializedCollections.csprojAssemblyReference.cache
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\SpecializedCollections\obj\Debug\SpecializedCollections.exe
+C:\Users\Praveen_Yatelli\source\repos\CollectionscClassExamples\SpecializedCollections\obj\Debug\SpecializedCollections.pdb
