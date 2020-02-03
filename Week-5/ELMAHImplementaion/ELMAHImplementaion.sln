@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELMAHImplementaion", "ELMAHImplementaion\ELMAHImplementaion.csproj", "{64DA2022-F5A6-4C59-9E32-A7ED0BB7A239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetImplementation", "Log4NetImplementation\Log4NetImplementation.csproj", "{9FFE7C9B-EAD0-479B-BC0F-58B6331F7D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DA2022-F5A6-4C59-9E32-A7ED0BB7A239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DA2022-F5A6-4C59-9E32-A7ED0BB7A239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DA2022-F5A6-4C59-9E32-A7ED0BB7A239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DA2022-F5A6-4C59-9E32-A7ED0BB7A239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FFE7C9B-EAD0-479B-BC0F-58B6331F7D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFE7C9B-EAD0-479B-BC0F-58B6331F7D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFE7C9B-EAD0-479B-BC0F-58B6331F7D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFE7C9B-EAD0-479B-BC0F-58B6331F7D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {931D42E3-C1A3-4ED6-A339-3B66D73D52DF}
+	EndGlobalSection
+EndGlobal
