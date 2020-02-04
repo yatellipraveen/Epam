@@ -19,6 +19,9 @@ namespace Log4NetImplementation
 
             //Log4Net
             log4net.Config.XmlConfigurator.Configure();
+
+            log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+            log.Error("Test Error ");
         }
     }
 }
